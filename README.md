@@ -10,7 +10,7 @@
 <h5> How to reach me:
 <br><br> 
 <a href="mailto:ibragimov.tim02@gmail.com"><img src="https://img.shields.io/badge/-ibragimov.tim02@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://t.me/cB9ITou"><img src="https://img.shields.io/badge/telegram-%40cB9ITou-blue"/></a> 
+<a href="https://t.me/ibragimovtim_2002"><img src="https://img.shields.io/badge/telegram-%40ibragimovtim_2002-blue"/></a> 
 <!--
 **cB9ITou/cB9ITou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
